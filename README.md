@@ -1,2 +1,2 @@
 # Project-HIDS
-Project on hybrid intrusion detection system .
+Project based on hybrid intrusion detection system .
