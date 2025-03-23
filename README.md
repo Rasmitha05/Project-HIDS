@@ -36,6 +36,7 @@ To set up and run Project-HIDS locally, follow these steps:
 The application should now be accessible at http://localhost:5000.
 
 📌 Usage
+
 Access the Web Interface: Open your web browser and navigate to http://localhost:5000.
 
 Monitor Intrusions: Use the dashboard to monitor intrusion detection activities, view logs, and analyze alerts.
